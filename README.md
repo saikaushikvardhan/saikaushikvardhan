@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @saikaushikvardhan
 - 🌱 I worked as an SDE at Amazon.
-- 💞️ I’m looking to collaborate on building stuff which is interesting and useful.
+- 💞️ I’m looking to collaborate on building stuff which are interesting and useful.
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/saikaushikvardhan/) or [Gmail](saikaushikvardhan@gmail.com)
